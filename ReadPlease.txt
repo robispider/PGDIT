@@ -1,0 +1,9 @@
+Group-1 Studentregistration
+group-2 courseinfo
+group-3 enroll
+group-4 userlogin
+group-5 admin login
+index.php
+
+group-6 attendance
+reports
